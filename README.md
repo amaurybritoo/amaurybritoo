@@ -119,9 +119,12 @@ My approach is simple: investigate the problem, understand the behavior, test th
 <img src="https://img.shields.io/badge/LET'S_CONNECT-LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
 </a>
 
-<a href="mailto:amaurypb845@gmail.com">
-  <img src="https://img.shields.io/badge/CONTACT_ME-Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me by email"/>
+<br/>
+
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=amaurypb845@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/CONTACT_ME-Gmail-EC4899?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me on Gmail"/>
 </a>
+
 
 
 <br/><br/>
