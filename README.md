@@ -11,16 +11,6 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/amaurybritoo/">
-<img src="https://img.shields.io/badge/LINKEDIN-Connect-A78BFA?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/amaurybritoo">
-<img src="https://img.shields.io/badge/GITHUB-Explore-18181B?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://instagram.com/amaurybritoo">
-<img src="https://img.shields.io/badge/INSTAGRAM-Follow-7C3AED?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-
 </div>
 
 ---
@@ -115,8 +105,9 @@ My approach is simple: investigate the problem, understand the behavior, test th
 
 ### Let's build something reliable.
 
-<a href="https://www.linkedin.com/in/amaurybritoo/">
-<img src="https://img.shields.io/badge/LET'S_CONNECT-LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+
+<a href="https://www.linkedin.com/in/amaurybritoo/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LET'S_CONNECT-LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
 </a>
 
 <br/>
@@ -124,6 +115,13 @@ My approach is simple: investigate the problem, understand the behavior, test th
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=amaurypb845@gmail.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/CONTACT_ME-Gmail-EC4899?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me on Gmail"/>
 </a>
+
+<br/>
+
+<a href="https://instagram.com/amaurybritoo">
+<img src="https://img.shields.io/badge/INSTAGRAM-Follow-7C3AED?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
 
 
 
