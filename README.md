@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:08070D,50:171027,100:08070D&text=AMAURY%20/%20LAB&fontColor=EDE9FE&fontSize=52&fontAlignY=48&desc=TECHNOLOGY%20%20%C2%B7%20%20QUALITY%20%20%C2%B7%20%20AUTOMATION&descSize=13&descAlignY=72&descColor=A78BFA&stroke=6D28D9&strokeWidth=1&animation=fadeIn"/>
+<img src="./assets/matrix.svg" width="100%" alt="AMAURY / LAB — Cyber Matrix"/>
 
 <br/>
 
@@ -12,36 +12,33 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/amaurybritoo/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=flat-square&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-Connect-A78BFA?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/amaurybritoo">
-  <img src="https://img.shields.io/badge/GitHub-Explore-18181B?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-Explore-18181B?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://instagram.com/amaurybritoo">
-  <img src="https://img.shields.io/badge/Instagram-Follow-7C3AED?style=flat-square&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/INSTAGRAM-Follow-7C3AED?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
 </div>
 
 ---
 
-## `01` — About me
+## `01` / About me
 
-```text
-Name       : Amaury Brito
-Education  : Systems Analysis and Development — FAMETRO
-Focus      : IT Support | Software Quality Assurance
-Currently  : Postgraduate studies in Software Quality and Testing
-Mindset    : Investigate. Test. Improve. Repeat.
-```
+I'm an IT professional with a background in **infrastructure, technical support, and software development**, currently expanding my knowledge of **Software Quality Assurance (QA)** and test automation.
 
-I'm an IT professional with a background in **infrastructure, technical support, and software development**, currently deepening my knowledge of **Software Quality Assurance (QA)** and test automation.
+My approach is simple: investigate the problem, understand the behavior, test the solution, and improve the result.
 
-I enjoy investigating problems, understanding how systems behave, and helping deliver more reliable software.
+- 🎓 Systems Analysis and Development — FAMETRO
+- 🖥️ IT Support and infrastructure
+- 🧪 Software testing and quality assurance
+- 📚 Postgraduate studies in Software Quality and Software Testing
 
 ---
 
-## `02` — What I do
+## `02` / Focus areas
 
 <table>
 <tr>
@@ -50,8 +47,8 @@ I enjoy investigating problems, understanding how systems behave, and helping de
 ### ◈ IT Support
 
 - Troubleshooting
-- Hardware & software
-- Users & permissions
+- Hardware and software
+- Users and permissions
 - Network fundamentals
 
 </td>
@@ -60,7 +57,7 @@ I enjoy investigating problems, understanding how systems behave, and helping de
 ### ◈ Quality Assurance
 
 - Manual testing
-- Test cases & scenarios
+- Test cases and scenarios
 - Bug reporting
 - Gherkin / BDD
 
@@ -80,58 +77,50 @@ I enjoy investigating problems, understanding how systems behave, and helping de
 
 ---
 
-## `03` — Tech stack
+## `03` / Tech stack
 
 <div align="center">
 
 **Languages & Web**
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" alt="Python, JavaScript, HTML and CSS"/>
 
 <br/><br/>
 
 **Testing & Automation**
 
-<img src="https://skillicons.dev/icons?i=selenium,cypress&theme=dark" />
+<img src="https://skillicons.dev/icons?i=selenium,cypress&theme=dark" alt="Selenium and Cypress"/>
 
 <br/><br/>
 
 **Tools & Database**
 
-<img src="https://skillicons.dev/icons?i=git,github,mysql,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,mysql,vscode&theme=dark" alt="Git, GitHub, MySQL and VS Code"/>
 
 </div>
 
 ---
 
-## `04` — Currently learning
+## `04` / Currently learning
 
 - Software Quality and Software Testing
-- Test automation with Cypress and Selenium
-- API testing and Postman
-- QA workflows, test documentation, and bug reporting
-- Continuous integration and delivery fundamentals
+- Cypress and Selenium automation
+- API testing with Postman
+- Test documentation and bug reporting
+- CI/CD fundamentals
 
 ---
 
-## `05` — Find me
-
 <div align="center">
 
-Interested in technology, quality engineering, and opportunities to learn and build better software.
-
-<br/>
+### Let's build something reliable.
 
 <a href="https://www.linkedin.com/in/amaurybritoo/">
-  <img src="https://img.shields.io/badge/LET'S_CONNECT-LinkedIn-A78BFA?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LET'S_CONNECT-LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
 </a>
 
 <br/><br/>
 
-<sub>AMAURY / LAB · Technology with purpose.</sub>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7C3AED,50:A78BFA,100:7C3AED" />
+<sub>AMAURY / LAB — Technology with purpose.</sub>
 
 </div>
