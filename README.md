@@ -126,6 +126,11 @@ My approach is simple: investigate the problem, understand the behavior, test th
 <p align="center">
   <img src="./assets/serpent.svg" width="100%" alt="Astronauta com balão HELP fugindo de um Alien por um portal roxo e rosa" />
 </p>
+<br/>
+<a href="mailto:amaurypb845@gmail.com">
+  <img src="https://img.shields.io/badge/CONTACT_ME-Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me by email"/>
+</a>
+<br/>
 
 <br/><br/>
 
