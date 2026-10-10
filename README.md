@@ -119,6 +119,11 @@ My approach is simple: investigate the problem, understand the behavior, test th
 <img src="https://img.shields.io/badge/LET'S_CONNECT-LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
 </a>
 
+<a href="mailto:amaurypb845@gmail.com">
+  <img src="https://img.shields.io/badge/CONTACT_ME-Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me by email"/>
+</a>
+
+
 <br/><br/>
 
 ---
@@ -127,10 +132,7 @@ My approach is simple: investigate the problem, understand the behavior, test th
   <img src="./assets/serpent.svg" width="100%" alt="Astronauta com balão HELP fugindo de um Alien por um portal roxo e rosa" />
 </p>
 <br/>
-<a href="mailto:amaurypb845@gmail.com">
-  <img src="https://img.shields.io/badge/CONTACT_ME-Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me by email"/>
-</a>
-<br/>
+
 
 <br/><br/>
 
